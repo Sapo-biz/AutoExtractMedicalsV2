@@ -61,7 +61,7 @@ java -cp .:pdfbox-app-2.x.x.jar com.yourcompany.autoextract.AutoExtract
 ---
 
 ## License:
-MIT Lincense
+MIT License
 
 Program by Jason He.
 
