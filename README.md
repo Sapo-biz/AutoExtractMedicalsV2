@@ -51,10 +51,12 @@ All logic resides in `AutoExtract.java` for simplicity. The app uses:
 
 ```bash
 javac -cp .:pdfbox-app-2.x.x.jar com/yourcompany/autoextract/AutoExtract.java
+```
 
 2. **Run:**
 ```bash
 java -cp .:pdfbox-app-2.x.x.jar com.yourcompany.autoextract.AutoExtract
+```
 
 ---
 
