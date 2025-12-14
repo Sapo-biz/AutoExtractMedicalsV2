@@ -7,7 +7,7 @@ Author: Jason He
  
 ## Overview
 
-AutoExtract Medical Services is a professional-grade Java desktop application designed to extract structured medical information from `.pdf` and `.txt` documents. With a clean and user friendly interface, the tool parses medical records into organized data fields, allowing users to easily view, filter, and export information for downstream use.
+AutoExtract Medical Services is a professional-grade Java desktop application designed to extract structured medical information from `.pdf` and `.txt` documents. With a clean and user friendly interface, the tool parses medical records into organized data fields, allowing users to easily view, filter, and export information for downstream use. Proud to be coded in Java-only.
 
 ---
 
